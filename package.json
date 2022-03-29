@@ -1,0 +1,12 @@
+{
+    "name": "js-a-short-story",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "scripts": {
+        "format": "prettier --write **/*.js"
+    },
+    "devDependencies": {
+        "prettier": "2.6.1"
+    }
+}
